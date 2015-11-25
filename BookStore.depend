@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1448116081 source:/home/yusuf/Masaüstü/BookStore - Odev -Linux/kasaImp.cpp
+	"kasa.h"
+
+1448055181 /home/yusuf/Masaüstü/BookStore - Odev -Linux/kasa.h
+	<iostream>
+
+1448195369 source:/home/yusuf/Masaüstü/BookStore - Odev -Linux/kitaplarImp.cpp
+	"kitaplar.h"
+	<iostream>
+	<iomanip>
+
+1448115848 /home/yusuf/Masaüstü/BookStore - Odev -Linux/kitaplar.h
+	"yazarlar.h"
+
+1448055044 /home/yusuf/Masaüstü/BookStore - Odev -Linux/yazarlar.h
+	<string>
+
+1448194365 source:/home/yusuf/Masaüstü/BookStore - Odev -Linux/yazarlarImp.cpp
+	"yazarlar.h"
+	<iostream>
+	<iomanip>
+
+1448116081 source:/home/yusuf/Masaüstü/File/BookStore - Odev -Linux/kasaImp.cpp
+	"kasa.h"
+
+1448055181 /home/yusuf/Masaüstü/File/BookStore - Odev -Linux/kasa.h
+	<iostream>
+
+1448304288 source:/home/yusuf/Masaüstü/File/BookStore - Odev -Linux/kitaplarImp.cpp
+	"kitaplar.h"
+	<iostream>
+	<iomanip>
+
+1448303476 /home/yusuf/Masaüstü/File/BookStore - Odev -Linux/kitaplar.h
+	"yazarlar.h"
+
+1448303608 /home/yusuf/Masaüstü/File/BookStore - Odev -Linux/yazarlar.h
+	<string>
+
+1448303689 source:/home/yusuf/Masaüstü/File/BookStore - Odev -Linux/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	"kasa.h"
+	"kitaplar.h"
+	"yazarlar.h"
+
+1448303795 source:/home/yusuf/Masaüstü/File/BookStore - Odev -Linux/yazarlarImp.cpp
+	"yazarlar.h"
+	<iostream>
+	<iomanip>
+
+1448116081 source:/home/yusuf/Masaüstü/OOP/kasaImp.cpp
+	"kasa.h"
+
+1448055181 /home/yusuf/Masaüstü/OOP/kasa.h
+	<iostream>
+
+1448304288 source:/home/yusuf/Masaüstü/OOP/kitaplarImp.cpp
+	"kitaplar.h"
+	<iostream>
+	<iomanip>
+
+1448303476 /home/yusuf/Masaüstü/OOP/kitaplar.h
+	"yazarlar.h"
+
+1448303608 /home/yusuf/Masaüstü/OOP/yazarlar.h
+	<string>
+
+1448304323 source:/home/yusuf/Masaüstü/OOP/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	"kasa.h"
+	"kitaplar.h"
+	"yazarlar.h"
+
+1448303795 source:/home/yusuf/Masaüstü/OOP/yazarlarImp.cpp
+	"yazarlar.h"
+	<iostream>
+	<iomanip>
+
